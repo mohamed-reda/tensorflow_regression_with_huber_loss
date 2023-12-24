@@ -60,7 +60,7 @@ Remember to rerun all cells after making changes to ensure the updated loss func
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/yourusername/tensorflow-regression-huber-loss](https://github.com/mohamed-reda/tensorflow_regression_with_huber_loss.git`
+1. Clone this repository: `git clone https://github.com/mohamed-reda/tensorflow_regression_with_huber_loss.git`
 2. Navigate to the project directory: `cd tensorflow-regression-huber-loss`
 3. Run the Jupyter notebook: `jupyter notebook`
 
